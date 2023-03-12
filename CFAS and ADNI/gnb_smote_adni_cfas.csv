@@ -1,0 +1,7 @@
+﻿data,measures,all_features,above_CI,below_CI,combined,5_selected_features
+cfas,Accuracy,0.655,0.706,0.593,0.701,0.667
+cfas,Sensitivity,0.682,0.813,0.972,0.794,0.682
+cfas,Specificity,0.614,0.543,0.014,0.557,0.643
+adni,Accuracy,0.952,0.944,0.734,0.952,0.935
+adni,Sensitivity,0.935,0.903,0.629,0.919,0.887
+adni,Specificity,0.968,0.984,0.839,0.984,0.984

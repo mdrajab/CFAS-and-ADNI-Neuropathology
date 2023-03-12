@@ -1,0 +1,6 @@
+﻿group of features,Accuracy,Sensitivity,Specificity
+A,0.952,0.935,0.968
+B,0.944,0.903,0.984
+C,0.734,0.629,0.839
+D,0.952,0.919,0.984
+E,0.935,0.887,0.984
